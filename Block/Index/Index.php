@@ -3,6 +3,9 @@
 
 namespace Xigen\PrivateContent\Block\Index;
 
+/**
+ * Index block class
+ */
 class Index extends \Magento\Framework\View\Element\Template
 {
 

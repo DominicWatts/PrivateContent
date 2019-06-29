@@ -3,9 +3,11 @@
 
 namespace Xigen\PrivateContent\Controller\Index;
 
+/**
+ * Index controller class
+ */
 class Index extends \Magento\Framework\App\Action\Action
 {
-
     protected $resultPageFactory;
 
     /**
