@@ -1,1 +1,16 @@
-Hello index/index.phtml
+<div id="example-header">
+    <span data-bind="text: example().active"></span>
+</div>
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "example": {
+                    "component": "Vendor_Example/js/example"
+                }
+            }
+        }
+    }
+}
+</script>

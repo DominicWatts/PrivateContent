@@ -1,8 +1,9 @@
 {
-    "name": "xigen/module-privatecontent",
+    "name": "dominicwatts/privatecontent",
     "description": "",
     "type": "magento2-module",
     "license": "proprietary",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Dominic Xigen",
