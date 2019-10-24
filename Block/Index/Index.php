@@ -1,6 +1,6 @@
 <?php
 
-// phpcs:ignoreFile 
+// phpcs:ignoreFile
 namespace Xigen\PrivateContent\Block\Index;
 
 /**
